@@ -2,7 +2,7 @@
 
 This project presents an **AI-driven Snake game** developed in Python, featuring multiple AI algorithms for autonomous gameplay, including **A* Search**, **Depth-First Search (DFS)**, and **Neural Networks**.
 
-## 📌 Features
+## 📌 Features 
 
 - **Multiple AI Algorithms**: Implements A* Search, DFS, and a Neural Network-based AI.
 - **Customizable AI Behavior**: Neural Network can be trained and saved for better performance.
