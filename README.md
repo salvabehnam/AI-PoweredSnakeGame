@@ -55,6 +55,15 @@ This project presents an **AI-driven Snake game** developed in Python, featuring
 - **Depth-First Search (DFS.py)**: Explores all possible paths using DFS.
 - **Neural Network (NN.py)**: Uses a feedforward neural network to control the snake.
 
+## 🖼️ Visual Demonstrations
+
+### 🔷 A* Search Algorithm
+![A* Search](images/astar.gif)
+
+### 🔷 Depth-First Search (DFS)
+![DFS](images/dfs.gif)
+
+
 ## ✨ Technologies Used
 
 - Python
